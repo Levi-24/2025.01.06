@@ -1,0 +1,11 @@
+{
+    "name": "ny19majorl/2025.01.06",
+    "autoload": {
+        "psr-4": {
+            "Ny19majorl\\20250106\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
